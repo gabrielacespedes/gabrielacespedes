@@ -5,18 +5,21 @@
 </p>
 
 ---
-
-## 💻 Mi Stack Tecnológico
+## 🚀 Mi Stack Tecnológico
 
 Aquí están las principales herramientas y tecnologías con las que trabajo:
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Bases de Datos** | SQL Server, MySQL |
-| **Cloud & DevOps** | Azure, Google Cloud (GCP) |
-| **BI & Analytics** | Power BI, Tableau, Excel |
-| **Lenguajes** | Python, SQL, DAX |
-| **Automatización** | Power Automate (Power Platform) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066CC?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
@@ -24,9 +27,9 @@ Aquí están las principales herramientas y tecnologías con las que trabajo:
 
 Estoy comprometida con el desarrollo de soluciones que generen valor. Actualmente, puedes encontrar proyectos relacionados con:
 
-* **Dashboards Interactivos:** Creación de visualizaciones en Power BI y Tableau para la toma de decisiones.
-* **Automatización de Informes:** Scripts en Python y flujos en Power Automate para reducir la carga de trabajo manual.
-* **Migración a Cloud:** Desarrollo de soluciones de datos escalables en Azure y GCP.
+-   **Dashboards Interactivos:** Creación de visualizaciones en Power BI y Tableau para la toma de decisiones.
+-   **Automatización de Informes:** Scripts en Python y flujos en Power Automate para reducir la carga de trabajo manual.
+-   **Migración a Cloud:** Desarrollo de soluciones de datos escalables en Azure.
 
 ---
 
