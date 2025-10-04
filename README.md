@@ -1,7 +1,7 @@
 # ¡Hola! Soy Gabriela Céspedes 👋
 
 <p align="center">
-  Soy una entusiasta de la **Inteligencia de Negocios (BI)** y las **Soluciones de Datos** con experiencia en transformar datos en decisiones estratégicas. Me especializo en **Automatización** y **Cloud**, buscando siempre optimizar procesos y construir arquitecturas de datos escalables.
+  Soy una entusiasta de la Inteligencia de Negocios y las Soluciones de Datos con experiencia en transformar datos en decisiones estratégicas. Me especializo en Automatización y Cloud, buscando siempre optimizar procesos y construir arquitecturas de datos escalables.
 </p>
 
 ---
